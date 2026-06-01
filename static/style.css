@@ -1049,8 +1049,13 @@ BUTTONS
 }
 @media (max-width:768px){
 
+    .hero{
+    min-height:auto;
+    padding:40px 5% 30px;
+}
+
     .hero h1{
-        font-size:56px;
+        font-size:42px;
         line-height:1.1;
     }
 
